@@ -10,5 +10,7 @@ namespace ConsoleApp3
             Console.WriteLine("Hello");
         }
         
+       string name = "dkhfsbjfdjs";
+        Console.WriteLine("это я");
     }
 }

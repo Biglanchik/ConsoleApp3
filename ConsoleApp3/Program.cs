@@ -9,7 +9,7 @@ namespace ConsoleApp3
             for (int i=0 i<3 i++)
             Console.WriteLine("Vanek");
         }
-        Console.WriteLine("gomek");
+        Console.WriteLine("one");
      
     }
 }

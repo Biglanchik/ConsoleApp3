@@ -9,7 +9,10 @@ namespace ConsoleApp3
             for (int i=0 i<3 i++)
             Console.WriteLine("Vanek");
         }
-        Console.WriteLine("one");
-     
+        static void laba(string[] args)
+        {
+            for (int i = 0; i < 3; i++)
+                Console.WriteLine("Vaneklaba");
+        }
     }
 }
